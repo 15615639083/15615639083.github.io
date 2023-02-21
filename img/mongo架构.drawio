@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T05:28:47.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0uEDirwPZI9zGeqQEf2i" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T05:31:47.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5zk7J_n3vu9pg1DN7iYD" version="20.8.18" type="github">
   <diagram name="第 1 页" id="6VODn49KCvw7kJNHIjJo">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="IE9bk7GomRztHWEX5Cet-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IE9bk7GomRztHWEX5Cet-1" target="IE9bk7GomRztHWEX5Cet-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IE9bk7GomRztHWEX5Cet-1" value="磁盘文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="IE9bk7GomRztHWEX5Cet-1" value="AnyShare文件等" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IE9bk7GomRztHWEX5Cet-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IE9bk7GomRztHWEX5Cet-2" target="IE9bk7GomRztHWEX5Cet-4">

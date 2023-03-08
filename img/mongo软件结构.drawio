@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T09:47:27.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="lyJyRO4lGu7ZWnxuITRX" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T08:09:09.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="uNnWBf-mbL5__8F7_TKq" version="20.8.23" type="github">
   <diagram name="第 1 页" id="o8ljjgJDXuDi5uR8yeZR">
     <mxGraphModel dx="2261" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,8 +46,8 @@
         <mxCell id="5sS7ZfewBmRh2sbd-nhQ-23" value="index索引模块&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="122.5" y="340" width="127.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5sS7ZfewBmRh2sbd-nhQ-26" value="wriedtriger存储引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="150" y="440" width="210" height="40" as="geometry" />
+        <mxCell id="5sS7ZfewBmRh2sbd-nhQ-26" value="In memory存储引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5sS7ZfewBmRh2sbd-nhQ-29" value="write写模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="330" y="230" width="140" height="40" as="geometry" />
@@ -61,7 +61,7 @@
         <mxCell id="5sS7ZfewBmRh2sbd-nhQ-32" value="mongodb单机模块结构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="-150" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5sS7ZfewBmRh2sbd-nhQ-33" value="客户端&lt;br&gt;python，java..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5sS7ZfewBmRh2sbd-nhQ-33" value="客户端&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="-80" width="810" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5sS7ZfewBmRh2sbd-nhQ-34" value="连接层，主要指数据库连接池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -74,13 +74,19 @@
           <mxGeometry x="-130" y="80" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="5sS7ZfewBmRh2sbd-nhQ-37" value="文件系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="520" width="422.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5sS7ZfewBmRh2sbd-nhQ-38" value="日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
-          <mxGeometry x="352.5" y="520" width="422.5" height="40" as="geometry" />
+          <mxGeometry x="-70" y="520" width="710" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5sS7ZfewBmRh2sbd-nhQ-39" value="缓存 读写 并发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="637.5" y="210" width="172.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5sS7ZfewBmRh2sbd-nhQ-40" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="240" y="480" width="15" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5sS7ZfewBmRh2sbd-nhQ-41" value="wriedtriger存储引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="30" y="440" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5sS7ZfewBmRh2sbd-nhQ-42" value="其他" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="370" y="440" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
